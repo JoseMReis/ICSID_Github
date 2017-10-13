@@ -1,27 +1,6 @@
-# ICSID_Github
-
----
-title: 'ICSID Disputes: Pulling General Case and Procedural Transparency Data'
-author: "J. M. Reis"
-date: "13/10/2017"
-output: 
-html_document: 
-  keep_md: yes
-  toc: yes
-pdf_document:
-  highlight: yes
-  toc: yes
-  number_sections: yes
----
-<meta charset="utf-8">
-
-[//]: # (Changing the default text allignment to justified on both sides. Btw, this is how you make comments in Rmd!)
-<style>
-body {text-align: justify}
-</style>
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = FALSE, eval = FALSE)
+# ICSID Disputes: Pulling General Case and Procedural Transparency Data
+José M. Reis
+13/10/2017
 ```
 
 # Pulling the data
