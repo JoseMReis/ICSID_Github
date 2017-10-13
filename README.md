@@ -3,7 +3,7 @@ José M. Reis
 (13/10/2017)
 ```
 
-# Pulling the data
+## Pulling the data
 
 In this session we will generate a dataset composed by all concluded disputes (which have reached the arbitration stage) as well as their "procedural transparency variables". The extraction strategy goes as follows: we start by extracting all (again, non-settled nor discontinued) concluded cases as our baseline dataset;next, we exploit the "database" "published materials" parameter for getting case tables by published doc (by_doc tables); then we will use the case id to loop around the case specific pages and extract case specific data; finally, we wrap things up by generating procedural transparency variables and coding them based on matches between by_doc and baseline case ids.
 
