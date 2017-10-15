@@ -1,7 +1,10 @@
 # ICSID Disputes: Pulling General Case and Procedural Transparency Data
-José M. Reis
+JosÃ© M. Reis
 (13/10/2017)
 
+## Disclaimer
+
+The data is still in a preliminary stage. Before using it please contact me (jose.reis@ile-graduateschool.de).
 
 ## Pulling the data
 
